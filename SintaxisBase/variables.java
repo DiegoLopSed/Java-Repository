@@ -1,7 +1,7 @@
 package com.mycompany.variables;
 
-public class Variables {
-    public static void main(String[] args) {
+public class Variables { // Nombre de tu clase
+    public static void main(String[] args) { // Espacio para la funcionalidad del codigo
 
         // !Declaración de variables
         int Edad = 20; // * Entero
